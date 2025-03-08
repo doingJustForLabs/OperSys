@@ -1,0 +1,10 @@
+D:\Study\Subjects\Sem4\OS\Lab2-form\bin\Debug\Lab2-form.exe.config
+D:\Study\Subjects\Sem4\OS\Lab2-form\bin\Debug\Lab2-form.exe
+D:\Study\Subjects\Sem4\OS\Lab2-form\bin\Debug\Lab2-form.pdb
+D:\Study\Subjects\Sem4\OS\Lab2-form\obj\Debug\Lab2-form.csproj.AssemblyReference.cache
+D:\Study\Subjects\Sem4\OS\Lab2-form\obj\Debug\Lab2_form.Form1.resources
+D:\Study\Subjects\Sem4\OS\Lab2-form\obj\Debug\Lab2_form.Properties.Resources.resources
+D:\Study\Subjects\Sem4\OS\Lab2-form\obj\Debug\Lab2-form.csproj.GenerateResource.cache
+D:\Study\Subjects\Sem4\OS\Lab2-form\obj\Debug\Lab2-form.csproj.CoreCompileInputs.cache
+D:\Study\Subjects\Sem4\OS\Lab2-form\obj\Debug\Lab2-form.exe
+D:\Study\Subjects\Sem4\OS\Lab2-form\obj\Debug\Lab2-form.pdb
