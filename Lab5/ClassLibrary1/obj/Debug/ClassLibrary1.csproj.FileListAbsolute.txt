@@ -1,0 +1,8 @@
+D:\Study\Subjects\Sem4\OS\Lab5\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Study\Subjects\Sem4\OS\Lab5\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Study\Subjects\Sem4\OS\Lab5\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+D:\Study\Subjects\Sem4\OS\Lab5\ClassLibrary1\obj\Debug\ClassLibrary1.Form1.resources
+D:\Study\Subjects\Sem4\OS\Lab5\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.GenerateResource.cache
+D:\Study\Subjects\Sem4\OS\Lab5\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Study\Subjects\Sem4\OS\Lab5\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Study\Subjects\Sem4\OS\Lab5\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
