@@ -13,6 +13,8 @@ namespace ClassLibrary1
 {
     public partial class Form1: Form
     {
+        public int clickCount = 0;
+
         public Form1()
         {
             InitializeComponent();
@@ -20,7 +22,8 @@ namespace ClassLibrary1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Кнопка нажата!";
+            clickCount += 1;
+            label1.Text = $"count = {clickCount}";
         }
     }
 }

@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Study\\Subjects\\Sem4\\OS\\Lab4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC453DA1-166B-46E8-882D-FF868DA84858}|Lab4.csproj|d:\\study\\subjects\\sem4\\os\\lab4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EC453DA1-166B-46E8-882D-FF868DA84858}|Lab4.csproj|D:\\Study\\Subjects\\Sem4\\OS\\Lab4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EC453DA1-166B-46E8-882D-FF868DA84858}|Lab4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC453DA1-166B-46E8-882D-FF868DA84858}|Lab4.csproj|D:\\Study\\Subjects\\Sem4\\OS\\Lab4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC453DA1-166B-46E8-882D-FF868DA84858}|Lab4.csproj|d:\\study\\subjects\\sem4\\os\\lab4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC453DA1-166B-46E8-882D-FF868DA84858}|Lab4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\Study\\Subjects\\Sem4\\OS\\Lab4\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAANwAAAAAAAAAAIA4wO8AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAWwPsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T21:06:30.574Z",
               "EditorCaption": ""

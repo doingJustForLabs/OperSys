@@ -22,15 +22,10 @@ namespace Lab5
         {
             try
             {
-                Assembly dll = Assembly.LoadFrom("ClassLibrary1.dll");
-                
+                Assembly dll = Assembly.LoadFrom("D:\\Study\\Subjects\\Sem4\\OS\\Lab5\\ClassLibrary1\\bin\\Debug\\ClassLibrary1.dll");
                 Type formType = dll.GetType("ClassLibrary1.Form1");
 
-
-                // 3. Создаём экземпляр формы
                 Form form = (Form)Activator.CreateInstance(formType);
-
-                // 4. Показываем форму
                 form.Show();
 
             } catch (Exception ex)

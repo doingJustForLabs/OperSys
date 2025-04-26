@@ -249,7 +249,7 @@ namespace Lab4
 
             while (!token.IsCancellationRequested)
             {
-                pauseEvent.Wait(token); // Ожидание при паузе
+                pauseEvent.Wait(token); 
 
                 try
                 {
