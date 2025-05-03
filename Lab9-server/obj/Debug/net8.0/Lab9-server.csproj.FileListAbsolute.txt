@@ -1,0 +1,15 @@
+D:\Study\Subjects\Sem4\OS\Lab9-server\bin\Debug\net8.0\Lab9-server.exe
+D:\Study\Subjects\Sem4\OS\Lab9-server\bin\Debug\net8.0\Lab9-server.deps.json
+D:\Study\Subjects\Sem4\OS\Lab9-server\bin\Debug\net8.0\Lab9-server.runtimeconfig.json
+D:\Study\Subjects\Sem4\OS\Lab9-server\bin\Debug\net8.0\Lab9-server.dll
+D:\Study\Subjects\Sem4\OS\Lab9-server\bin\Debug\net8.0\Lab9-server.pdb
+D:\Study\Subjects\Sem4\OS\Lab9-server\obj\Debug\net8.0\Lab9-server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Subjects\Sem4\OS\Lab9-server\obj\Debug\net8.0\Lab9-server.AssemblyInfoInputs.cache
+D:\Study\Subjects\Sem4\OS\Lab9-server\obj\Debug\net8.0\Lab9-server.AssemblyInfo.cs
+D:\Study\Subjects\Sem4\OS\Lab9-server\obj\Debug\net8.0\Lab9-server.csproj.CoreCompileInputs.cache
+D:\Study\Subjects\Sem4\OS\Lab9-server\obj\Debug\net8.0\Lab9-server.sourcelink.json
+D:\Study\Subjects\Sem4\OS\Lab9-server\obj\Debug\net8.0\Lab9-server.dll
+D:\Study\Subjects\Sem4\OS\Lab9-server\obj\Debug\net8.0\refint\Lab9-server.dll
+D:\Study\Subjects\Sem4\OS\Lab9-server\obj\Debug\net8.0\Lab9-server.pdb
+D:\Study\Subjects\Sem4\OS\Lab9-server\obj\Debug\net8.0\Lab9-server.genruntimeconfig.cache
+D:\Study\Subjects\Sem4\OS\Lab9-server\obj\Debug\net8.0\ref\Lab9-server.dll

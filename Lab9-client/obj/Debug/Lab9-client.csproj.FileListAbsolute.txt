@@ -1,0 +1,11 @@
+D:\Study\Subjects\Sem4\OS\Lab9-client\obj\Debug\Lab9-client.csproj.AssemblyReference.cache
+D:\Study\Subjects\Sem4\OS\Lab9-client\obj\Debug\Lab9_client.Form1.resources
+D:\Study\Subjects\Sem4\OS\Lab9-client\obj\Debug\Lab9_client.Properties.Resources.resources
+D:\Study\Subjects\Sem4\OS\Lab9-client\obj\Debug\Lab9-client.csproj.GenerateResource.cache
+D:\Study\Subjects\Sem4\OS\Lab9-client\obj\Debug\Lab9-client.csproj.CoreCompileInputs.cache
+D:\Study\Subjects\Sem4\OS\Lab9-client\bin\Debug\Lab9-client.exe.config
+D:\Study\Subjects\Sem4\OS\Lab9-client\bin\Debug\Lab9-client.exe
+D:\Study\Subjects\Sem4\OS\Lab9-client\bin\Debug\Lab9-client.pdb
+D:\Study\Subjects\Sem4\OS\Lab9-client\obj\Debug\Lab9-client.exe
+D:\Study\Subjects\Sem4\OS\Lab9-client\obj\Debug\Lab9-client.pdb
+D:\Study\Subjects\Sem4\OS\Lab9-client\obj\Debug\Lab9_client.ChatForm.resources
