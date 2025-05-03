@@ -55,7 +55,6 @@
             this.serverIpTextBox.Name = "serverIpTextBox";
             this.serverIpTextBox.Size = new System.Drawing.Size(149, 29);
             this.serverIpTextBox.TabIndex = 1;
-            this.serverIpTextBox.Text = "127.0.0.1";
             // 
             // label1
             // 
