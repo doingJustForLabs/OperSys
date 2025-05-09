@@ -128,9 +128,19 @@ namespace Lab10
             try
             {
                 RegistryKey key = Registry.CurrentUser.CreateSubKey(txtPath.Text.Replace("HKEY_CURRENT_USER\\", ""));
-                key.SetValue(txtName.Text, txtValue.Text);
+                
+                if (!string.IsNullOrEmpty(txtName.Text) )
+                {
+                    key.SetValue(txtName.Text, txtValue.Text);
+                } else
+                {
+                    MessageBox.Show("Ключ не может быть пустым");
+                    return;
+                }
                 MessageBox.Show($"Изменено значение: {txtName.Text} = {txtValue.Text}");
                 Log($"Изменено значение: {txtName.Text} = {txtValue.Text}");
+
+                treeRegistry_AfterSelect(null, new TreeViewEventArgs(treeRegistry.SelectedNode));
             }
             catch (Exception ex)
             {
@@ -150,8 +160,8 @@ namespace Lab10
                     CreateNoWindow = true
                 };
                 System.Diagnostics.Process.Start(psi).WaitForExit();
-                MessageBox.Show("Бэкап создан");
                 Log("Бэкап создан");
+                MessageBox.Show("Бэкап создан");
             }
             catch (Exception ex)
             {
@@ -171,6 +181,7 @@ namespace Lab10
                 };
                 System.Diagnostics.Process.Start(psi).WaitForExit();
                 Log("Реестр восстановлен из бэкапа");
+                MessageBox.Show("Реестр восстановлен из бэкапа");
             }
             catch (Exception ex)
             {

@@ -51,6 +51,7 @@
             // 
             this.txtPath.Location = new System.Drawing.Point(164, 30);
             this.txtPath.Name = "txtPath";
+            this.txtPath.ReadOnly = true;
             this.txtPath.Size = new System.Drawing.Size(371, 29);
             this.txtPath.TabIndex = 0;
             // 
@@ -137,9 +138,9 @@
             // 
             // treeRegistry
             // 
-            this.treeRegistry.Location = new System.Drawing.Point(21, 28);
+            this.treeRegistry.Location = new System.Drawing.Point(21, 38);
             this.treeRegistry.Name = "treeRegistry";
-            this.treeRegistry.Size = new System.Drawing.Size(386, 354);
+            this.treeRegistry.Size = new System.Drawing.Size(386, 340);
             this.treeRegistry.TabIndex = 12;
             this.treeRegistry.BeforeExpand += new System.Windows.Forms.TreeViewCancelEventHandler(this.treeRegistry_BeforeExpand);
             this.treeRegistry.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeRegistry_AfterSelect);
@@ -150,7 +151,7 @@
             this.lstValues.ItemHeight = 24;
             this.lstValues.Location = new System.Drawing.Point(21, 38);
             this.lstValues.Name = "lstValues";
-            this.lstValues.Size = new System.Drawing.Size(386, 124);
+            this.lstValues.Size = new System.Drawing.Size(386, 340);
             this.lstValues.TabIndex = 13;
             // 
             // groupBox1
@@ -166,9 +167,9 @@
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.lstValues);
-            this.groupBox2.Location = new System.Drawing.Point(553, 419);
+            this.groupBox2.Location = new System.Drawing.Point(989, 12);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(430, 176);
+            this.groupBox2.Size = new System.Drawing.Size(430, 401);
             this.groupBox2.TabIndex = 15;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Доступные значения";
@@ -187,7 +188,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(995, 608);
+            this.ClientSize = new System.Drawing.Size(1431, 421);
             this.Controls.Add(this.btnTestChange);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
