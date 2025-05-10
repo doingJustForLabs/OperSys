@@ -18,3 +18,13 @@ D:\Study\OperSys\Lab8\Lab8_Server\obj\Debug\Lab8_Server.csproj.CoreCompileInputs
 D:\Study\OperSys\Lab8\Lab8_Server\obj\Debug\Lab8_Ser.F5C6AA8E.Up2Date
 D:\Study\OperSys\Lab8\Lab8_Server\obj\Debug\Lab8_Server.exe
 D:\Study\OperSys\Lab8\Lab8_Server\obj\Debug\Lab8_Server.pdb
+D:\Study\doingJustForLabs\OperSys\Lab8\Lab8_Server\bin\Debug\Lab8_Server.exe.config
+D:\Study\doingJustForLabs\OperSys\Lab8\Lab8_Server\bin\Debug\Lab8_Server.exe
+D:\Study\doingJustForLabs\OperSys\Lab8\Lab8_Server\bin\Debug\Newtonsoft.Json.dll
+D:\Study\doingJustForLabs\OperSys\Lab8\Lab8_Server\bin\Debug\Newtonsoft.Json.xml
+D:\Study\doingJustForLabs\OperSys\Lab8\Lab8_Server\obj\Debug\Lab8_Server.csproj.AssemblyReference.cache
+D:\Study\doingJustForLabs\OperSys\Lab8\Lab8_Server\obj\Debug\Lab8_Server.csproj.CoreCompileInputs.cache
+D:\Study\doingJustForLabs\OperSys\Lab8\Lab8_Server\obj\Debug\Lab8_Ser.F5C6AA8E.Up2Date
+D:\Study\doingJustForLabs\OperSys\Lab8\Lab8_Server\obj\Debug\Lab8_Server.exe
+D:\Study\doingJustForLabs\OperSys\Lab8\Lab8_Server\obj\Debug\Lab8_Server.pdb
+D:\Study\doingJustForLabs\OperSys\Lab8\Lab8_Server\bin\Debug\Lab8_Server.pdb

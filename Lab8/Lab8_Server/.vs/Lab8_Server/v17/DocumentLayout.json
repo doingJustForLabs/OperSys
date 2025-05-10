@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Study\\OperSys\\Lab8\\Lab8_Server\\",
+  "WorkspaceRootPath": "D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5156791-D1EB-478B-AF78-71A29C3B5396}|Lab8_Server.csproj|d:\\study\\opersys\\lab8\\lab8_server\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5156791-D1EB-478B-AF78-71A29C3B5396}|Lab8_Server.csproj|d:\\study\\doingjustforlabs\\opersys\\lab8\\lab8_server\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5156791-D1EB-478B-AF78-71A29C3B5396}|Lab8_Server.csproj|solutionrelative:chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5156791-D1EB-478B-AF78-71A29C3B5396}|Lab8_Server.csproj|D:\\Study\\OperSys\\Lab8\\Lab8_Server\\chatcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5156791-D1EB-478B-AF78-71A29C3B5396}|Lab8_Server.csproj|D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Server\\chatcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5156791-D1EB-478B-AF78-71A29C3B5396}|Lab8_Server.csproj|solutionrelative:chatcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5156791-D1EB-478B-AF78-71A29C3B5396}|Lab8_Server.csproj|D:\\Study\\OperSys\\Lab8\\Lab8_Server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5156791-D1EB-478B-AF78-71A29C3B5396}|Lab8_Server.csproj|D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5156791-D1EB-478B-AF78-71A29C3B5396}|Lab8_Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,32 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ChatServer.cs",
-              "DocumentMoniker": "D:\\Study\\OperSys\\Lab8\\Lab8_Server\\ChatServer.cs",
-              "RelativeDocumentMoniker": "ChatServer.cs",
-              "ToolTip": "D:\\Study\\OperSys\\Lab8\\Lab8_Server\\ChatServer.cs",
-              "RelativeToolTip": "ChatServer.cs",
-              "ViewState": "AgIAAMkAAAAAAAAAAADwv+EAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:11:00.609Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatServer.cs",
+              "DocumentMoniker": "D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Server\\ChatServer.cs",
+              "RelativeDocumentMoniker": "ChatServer.cs",
+              "ToolTip": "D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Server\\ChatServer.cs",
+              "RelativeToolTip": "ChatServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:11:00.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ChatCommands.cs",
-              "DocumentMoniker": "D:\\Study\\OperSys\\Lab8\\Lab8_Server\\ChatCommands.cs",
+              "DocumentMoniker": "D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Server\\ChatCommands.cs",
               "RelativeDocumentMoniker": "ChatCommands.cs",
-              "ToolTip": "D:\\Study\\OperSys\\Lab8\\Lab8_Server\\ChatCommands.cs",
+              "ToolTip": "D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Server\\ChatCommands.cs",
               "RelativeToolTip": "ChatCommands.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,9 +58,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Study\\OperSys\\Lab8\\Lab8_Server\\Program.cs",
+              "DocumentMoniker": "D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Server\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Study\\OperSys\\Lab8\\Lab8_Server\\Program.cs",
+              "ToolTip": "D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Server\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

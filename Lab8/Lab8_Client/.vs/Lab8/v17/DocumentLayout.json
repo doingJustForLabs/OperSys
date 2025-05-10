@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Study\\OperSys\\Lab8\\Lab8_Client\\",
+  "WorkspaceRootPath": "D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Client\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E728445-92C6-4293-AC53-1CAC5028BB8F}|Lab8.csproj|D:\\Study\\OperSys\\Lab8\\Lab8_Client\\clientchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9E728445-92C6-4293-AC53-1CAC5028BB8F}|Lab8.csproj|d:\\study\\doingjustforlabs\\opersys\\lab8\\lab8_client\\clientchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9E728445-92C6-4293-AC53-1CAC5028BB8F}|Lab8.csproj|solutionrelative:clientchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E728445-92C6-4293-AC53-1CAC5028BB8F}|Lab8.csproj|D:\\Study\\OperSys\\Lab8\\Lab8_Client\\connectiondialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E728445-92C6-4293-AC53-1CAC5028BB8F}|Lab8.csproj|D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Client\\connectiondialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E728445-92C6-4293-AC53-1CAC5028BB8F}|Lab8.csproj|solutionrelative:connectiondialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E728445-92C6-4293-AC53-1CAC5028BB8F}|Lab8.csproj|D:\\Study\\OperSys\\Lab8\\Lab8_Client\\connectiondialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9E728445-92C6-4293-AC53-1CAC5028BB8F}|Lab8.csproj|D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Client\\connectiondialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9E728445-92C6-4293-AC53-1CAC5028BB8F}|Lab8.csproj|solutionrelative:connectiondialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E728445-92C6-4293-AC53-1CAC5028BB8F}|Lab8.csproj|D:\\Study\\OperSys\\Lab8\\Lab8_Client\\clientchat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E728445-92C6-4293-AC53-1CAC5028BB8F}|Lab8.csproj|D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Client\\clientchat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E728445-92C6-4293-AC53-1CAC5028BB8F}|Lab8.csproj|solutionrelative:clientchat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E728445-92C6-4293-AC53-1CAC5028BB8F}|Lab8.csproj|d:\\study\\opersys\\lab8\\lab8_client\\clientchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E728445-92C6-4293-AC53-1CAC5028BB8F}|Lab8.csproj|D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Client\\clientchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E728445-92C6-4293-AC53-1CAC5028BB8F}|Lab8.csproj|solutionrelative:clientchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -33,12 +33,16 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ClientChat.cs",
-              "DocumentMoniker": "D:\\Study\\OperSys\\Lab8\\Lab8_Client\\ClientChat.cs",
+              "DocumentMoniker": "D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Client\\ClientChat.cs",
               "RelativeDocumentMoniker": "ClientChat.cs",
-              "ToolTip": "D:\\Study\\OperSys\\Lab8\\Lab8_Client\\ClientChat.cs",
+              "ToolTip": "D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Client\\ClientChat.cs",
               "RelativeToolTip": "ClientChat.cs",
               "ViewState": "AgIAAO4AAAAAAAAAAAAAAP4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -46,41 +50,35 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ConnectionDialogue.cs",
-              "DocumentMoniker": "D:\\Study\\OperSys\\Lab8\\Lab8_Client\\ConnectionDialogue.cs",
+              "DocumentMoniker": "D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Client\\ConnectionDialogue.cs",
               "RelativeDocumentMoniker": "ConnectionDialogue.cs",
-              "ToolTip": "D:\\Study\\OperSys\\Lab8\\Lab8_Client\\ConnectionDialogue.cs",
+              "ToolTip": "D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Client\\ConnectionDialogue.cs",
               "RelativeToolTip": "ConnectionDialogue.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T14:16:03.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T14:16:03.831Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ConnectionDialogue.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\Study\\OperSys\\Lab8\\Lab8_Client\\ConnectionDialogue.cs",
+              "DocumentMoniker": "D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Client\\ConnectionDialogue.cs",
               "RelativeDocumentMoniker": "ConnectionDialogue.cs",
               "ToolTip": "D:\\Study\\OperSys\\Lab8\\Lab8_Client\\ConnectionDialogue.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "ConnectionDialogue.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\OperSys\\Lab8\\Lab8_Client\\ConnectionDialogue.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T14:12:12.629Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-05-02T14:12:12.629Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ClientChat.Designer.cs",
-              "DocumentMoniker": "D:\\Study\\OperSys\\Lab8\\Lab8_Client\\ClientChat.Designer.cs",
+              "DocumentMoniker": "D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Client\\ClientChat.Designer.cs",
               "RelativeDocumentMoniker": "ClientChat.Designer.cs",
-              "ToolTip": "D:\\Study\\OperSys\\Lab8\\Lab8_Client\\ClientChat.Designer.cs",
+              "ToolTip": "D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Client\\ClientChat.Designer.cs",
               "RelativeToolTip": "ClientChat.Designer.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAIwFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -91,9 +89,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ClientChat.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\Study\\OperSys\\Lab8\\Lab8_Client\\ClientChat.cs",
+              "DocumentMoniker": "D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Client\\ClientChat.cs",
               "RelativeDocumentMoniker": "ClientChat.cs",
-              "ToolTip": "D:\\Study\\OperSys\\Lab8\\Lab8_Client\\ClientChat.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "D:\\Study\\doingJustForLabs\\OperSys\\Lab8\\Lab8_Client\\ClientChat.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "ClientChat.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T10:40:51.324Z",
