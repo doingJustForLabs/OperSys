@@ -1,0 +1,10 @@
+D:\holn\Desktop\Учеба\ОС\lab4_Threads\lab4_Threads\obj\Debug\lab4_Threads.csproj.AssemblyReference.cache
+D:\holn\Desktop\Учеба\ОС\lab4_Threads\lab4_Threads\obj\Debug\lab4_Threads.Form1.resources
+D:\holn\Desktop\Учеба\ОС\lab4_Threads\lab4_Threads\obj\Debug\lab4_Threads.Properties.Resources.resources
+D:\holn\Desktop\Учеба\ОС\lab4_Threads\lab4_Threads\obj\Debug\lab4_Threads.csproj.GenerateResource.cache
+D:\holn\Desktop\Учеба\ОС\lab4_Threads\lab4_Threads\obj\Debug\lab4_Threads.csproj.CoreCompileInputs.cache
+D:\holn\Desktop\Учеба\ОС\lab4_Threads\lab4_Threads\bin\Debug\lab4_Threads.exe.config
+D:\holn\Desktop\Учеба\ОС\lab4_Threads\lab4_Threads\bin\Debug\lab4_Threads.exe
+D:\holn\Desktop\Учеба\ОС\lab4_Threads\lab4_Threads\bin\Debug\lab4_Threads.pdb
+D:\holn\Desktop\Учеба\ОС\lab4_Threads\lab4_Threads\obj\Debug\lab4_Threads.exe
+D:\holn\Desktop\Учеба\ОС\lab4_Threads\lab4_Threads\obj\Debug\lab4_Threads.pdb

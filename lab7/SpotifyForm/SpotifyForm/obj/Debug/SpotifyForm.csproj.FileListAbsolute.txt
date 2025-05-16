@@ -1,0 +1,10 @@
+D:\holn\Desktop\Study\ОС\lab7\SpotifyForm\SpotifyForm\bin\Debug\SpotifyForm.exe.config
+D:\holn\Desktop\Study\ОС\lab7\SpotifyForm\SpotifyForm\bin\Debug\SpotifyForm.exe
+D:\holn\Desktop\Study\ОС\lab7\SpotifyForm\SpotifyForm\bin\Debug\SpotifyForm.pdb
+D:\holn\Desktop\Study\ОС\lab7\SpotifyForm\SpotifyForm\obj\Debug\SpotifyForm.csproj.AssemblyReference.cache
+D:\holn\Desktop\Study\ОС\lab7\SpotifyForm\SpotifyForm\obj\Debug\SpotifyForm.SpotifyForm.resources
+D:\holn\Desktop\Study\ОС\lab7\SpotifyForm\SpotifyForm\obj\Debug\SpotifyForm.Properties.Resources.resources
+D:\holn\Desktop\Study\ОС\lab7\SpotifyForm\SpotifyForm\obj\Debug\SpotifyForm.csproj.GenerateResource.cache
+D:\holn\Desktop\Study\ОС\lab7\SpotifyForm\SpotifyForm\obj\Debug\SpotifyForm.csproj.CoreCompileInputs.cache
+D:\holn\Desktop\Study\ОС\lab7\SpotifyForm\SpotifyForm\obj\Debug\SpotifyForm.exe
+D:\holn\Desktop\Study\ОС\lab7\SpotifyForm\SpotifyForm\obj\Debug\SpotifyForm.pdb

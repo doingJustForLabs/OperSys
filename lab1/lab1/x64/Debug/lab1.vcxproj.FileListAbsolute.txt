@@ -1,0 +1,9 @@
+C:\Users\holn\Desktop\OSuniver\lab1\lab1\x64\Debug\lab1.vcxproj.AssemblyReference.cache
+C:\Users\holn\Desktop\OSuniver\lab1\lab1\x64\Debug\lab1.MyForm.resources
+C:\Users\holn\Desktop\OSuniver\lab1\lab1\x64\Debug\lab1.vcxproj.GenerateResource.cache
+D:\holn\Desktop\Учеба\ОС\lab1\lab1\x64\Debug\lab1.vcxproj.AssemblyReference.cache
+D:\holn\Desktop\Учеба\ОС\lab1\lab1\x64\Debug\lab1.MyForm.resources
+D:\holn\Desktop\Учеба\ОС\lab1\lab1\x64\Debug\lab1.MyForm1.resources
+D:\holn\Desktop\Учеба\ОС\lab1\lab1\x64\Debug\lab1.MyForm2.resources
+D:\holn\Desktop\Учеба\ОС\lab1\lab1\x64\Debug\lab1.res.resources
+D:\holn\Desktop\Учеба\ОС\lab1\lab1\x64\Debug\lab1.vcxproj.GenerateResource.cache

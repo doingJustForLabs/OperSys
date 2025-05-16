@@ -1,0 +1,6 @@
+D:\holn\Desktop\Study\ОС\lab7\GlobalEventHook\GlobalEventHook\bin\Debug\GlobalEventHook.dll
+D:\holn\Desktop\Study\ОС\lab7\GlobalEventHook\GlobalEventHook\bin\Debug\GlobalEventHook.pdb
+D:\holn\Desktop\Study\ОС\lab7\GlobalEventHook\GlobalEventHook\obj\Debug\GlobalEventHook.csproj.AssemblyReference.cache
+D:\holn\Desktop\Study\ОС\lab7\GlobalEventHook\GlobalEventHook\obj\Debug\GlobalEventHook.csproj.CoreCompileInputs.cache
+D:\holn\Desktop\Study\ОС\lab7\GlobalEventHook\GlobalEventHook\obj\Debug\GlobalEventHook.dll
+D:\holn\Desktop\Study\ОС\lab7\GlobalEventHook\GlobalEventHook\obj\Debug\GlobalEventHook.pdb

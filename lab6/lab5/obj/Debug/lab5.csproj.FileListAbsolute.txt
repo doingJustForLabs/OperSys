@@ -1,0 +1,10 @@
+D:\holn\Desktop\Study\ОС\lab5\lab5\bin\Debug\lab5.exe.config
+D:\holn\Desktop\Study\ОС\lab5\lab5\bin\Debug\lab5.exe
+D:\holn\Desktop\Study\ОС\lab5\lab5\bin\Debug\lab5.pdb
+D:\holn\Desktop\Study\ОС\lab5\lab5\obj\Debug\lab5.csproj.AssemblyReference.cache
+D:\holn\Desktop\Study\ОС\lab5\lab5\obj\Debug\lab5.Form1.resources
+D:\holn\Desktop\Study\ОС\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+D:\holn\Desktop\Study\ОС\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+D:\holn\Desktop\Study\ОС\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+D:\holn\Desktop\Study\ОС\lab5\lab5\obj\Debug\lab5.exe
+D:\holn\Desktop\Study\ОС\lab5\lab5\obj\Debug\lab5.pdb

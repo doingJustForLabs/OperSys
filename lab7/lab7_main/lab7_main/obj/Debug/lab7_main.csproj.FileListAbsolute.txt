@@ -1,0 +1,10 @@
+D:\holn\Desktop\Study\ОС\lab7\lab7_main\lab7_main\bin\Debug\lab7_main.exe.config
+D:\holn\Desktop\Study\ОС\lab7\lab7_main\lab7_main\bin\Debug\lab7_main.exe
+D:\holn\Desktop\Study\ОС\lab7\lab7_main\lab7_main\bin\Debug\lab7_main.pdb
+D:\holn\Desktop\Study\ОС\lab7\lab7_main\lab7_main\obj\Debug\lab7_main.csproj.AssemblyReference.cache
+D:\holn\Desktop\Study\ОС\lab7\lab7_main\lab7_main\obj\Debug\lab7_main.Form1.resources
+D:\holn\Desktop\Study\ОС\lab7\lab7_main\lab7_main\obj\Debug\lab7_main.Properties.Resources.resources
+D:\holn\Desktop\Study\ОС\lab7\lab7_main\lab7_main\obj\Debug\lab7_main.csproj.GenerateResource.cache
+D:\holn\Desktop\Study\ОС\lab7\lab7_main\lab7_main\obj\Debug\lab7_main.csproj.CoreCompileInputs.cache
+D:\holn\Desktop\Study\ОС\lab7\lab7_main\lab7_main\obj\Debug\lab7_main.exe
+D:\holn\Desktop\Study\ОС\lab7\lab7_main\lab7_main\obj\Debug\lab7_main.pdb

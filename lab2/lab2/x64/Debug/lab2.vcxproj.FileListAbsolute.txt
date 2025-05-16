@@ -1,0 +1,3 @@
+D:\holn\Desktop\Учеба\ОС\lab2\lab2\x64\Debug\lab2.vcxproj.AssemblyReference.cache
+D:\holn\Desktop\Учеба\ОС\lab2\lab2\x64\Debug\lab2.MyForm.resources
+D:\holn\Desktop\Учеба\ОС\lab2\lab2\x64\Debug\lab2.vcxproj.GenerateResource.cache

@@ -1,0 +1,12 @@
+D:\holn\Desktop\Учеба\ОС\lab3\lab3\bin\Debug\lab3.exe.config
+D:\holn\Desktop\Учеба\ОС\lab3\lab3\bin\Debug\lab3.exe
+D:\holn\Desktop\Учеба\ОС\lab3\lab3\bin\Debug\lab3.pdb
+D:\holn\Desktop\Учеба\ОС\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+D:\holn\Desktop\Учеба\ОС\lab3\lab3\obj\Debug\lab3.Form1.resources
+D:\holn\Desktop\Учеба\ОС\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+D:\holn\Desktop\Учеба\ОС\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+D:\holn\Desktop\Учеба\ОС\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\holn\Desktop\Учеба\ОС\lab3\lab3\obj\Debug\lab3.exe
+D:\holn\Desktop\Учеба\ОС\lab3\lab3\obj\Debug\lab3.pdb
+D:\holn\Desktop\Учеба\ОС\lab3\lab3\obj\Debug\Interop.Shell32.dll
+D:\holn\Desktop\Учеба\ОС\lab3\lab3\obj\Debug\lab3.csproj.ResolveComReference.cache
