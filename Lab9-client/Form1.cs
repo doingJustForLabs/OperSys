@@ -53,12 +53,12 @@ namespace Lab9_client
             catch { }
         }
 
-        private void connectBtn_Click(object sender, EventArgs e)
+        private void connectBtn_Click(object sender, EventArgs e)   
         {
             try
             {
                 client = new TcpClient();
-                client.Connect(serverIpTextBox.Text, 5000); // IP из текстбокса
+                client.Connect(serverIpTextBox.Text, 5000);
 
                 MessageBox.Show("Пользователь подключился");
 
@@ -89,13 +89,27 @@ namespace Lab9_client
         {
             if (stream != null && stream.CanWrite)
             {
-                string message = messageTextBox.Text.Trim();
-                if (!string.IsNullOrEmpty(message))
-                {
-                    byte[] data = Encoding.UTF8.GetBytes(message);
-                    stream.Write(data, 0, data.Length);
-                    messageTextBox.Clear();
-                }
+                SendMessage();
+            }
+        }
+
+        private void SendMessage()
+        {
+            string message = messageTextBox.Text.Trim();
+            if (!string.IsNullOrEmpty(message))
+            {
+                byte[] data = Encoding.UTF8.GetBytes(message);
+                stream.Write(data, 0, data.Length);
+                messageTextBox.Clear();
+            }
+        }
+
+        private void messageTextBox_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.SuppressKeyPress = true; 
+                SendMessage();
             }
         }
     }

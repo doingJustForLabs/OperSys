@@ -83,6 +83,7 @@
             this.messageTextBox.Name = "messageTextBox";
             this.messageTextBox.Size = new System.Drawing.Size(324, 46);
             this.messageTextBox.TabIndex = 4;
+            this.messageTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.messageTextBox_KeyDown);
             // 
             // connectBtn
             // 
